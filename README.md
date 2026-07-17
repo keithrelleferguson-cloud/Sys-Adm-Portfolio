@@ -72,3 +72,14 @@ I'm currently pursuing an M.S. in Cybersecurity while building hands-on experien
 ## Current Goal
 
 Building a complete enterprise homelab that simulates a real corporate IT environment.
+
+## Project Status
+
+- ✅ Windows Server Installed
+- ✅ VMware Configured
+- 🔄 Initial Server Configuration
+- ⏳ Active Directory Installation
+- ⏳ DNS Configuration
+- ⏳ DHCP Configuration
+- ⏳ Group Policy
+- ⏳ Client Domain Join
